@@ -1,0 +1,25 @@
+ <div class="pitch">
+      <div class="goalpost left-goal"></div>
+    <div class="goalpost right-goal"></div>
+    <div class="center-circle">
+        <div class="center-line"></div>
+    </div>
+    <div class="corner top-left-corner">
+      <div class="corner-marker" style="top: 0; left: 0;"></div>
+  </div>
+  <div class="corner top-right-corner">
+    <div class="corner-marker" style="top: 0; right: 0;"></div>
+</div>
+<div class="corner bottom-left-corner">
+  <div class="corner-marker" style="bottom: 0; left: 0;"></div>
+</div>
+<div class="corner bottom-right-corner">
+  <div class="corner-marker" style="bottom: 0; right: 0;"></div>
+</div>
+    <div class="sideline" style="left: 0;"></div>
+    <div class="sideline" style="right: 0;"></div>
+    <div class="penalty-area left-penalty-area"></div>
+    <div class="penalty-area right-penalty-area"></div>
+    </div>
+     </body>
+     </html>
